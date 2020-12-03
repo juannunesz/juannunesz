@@ -8,5 +8,5 @@
   Tech Stack: <strong>HTML5, CSS3, JavaScript and Bootstrap.</strong>
 </p>
 
-<img src="desenvolvedor.png" width="200px"  align="right" alt="Dev">
+<img src="desenvolvedor.png" width="300px"  align="right" alt="Dev">
 <br>
