@@ -1,5 +1,3 @@
-<img src="desenvolvedor.png" width="200px"  align="right" alt="Dev">
-<br>
 
 ## Hello there
 <p align="left"> 
@@ -10,3 +8,5 @@
   Tech Stack: <strong>HTML5, CSS3, JavaScript and Bootstrap.</strong>
 </p>
 
+<img src="desenvolvedor.png" width="200px"  align="right" alt="Dev">
+<br>
