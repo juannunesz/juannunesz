@@ -5,9 +5,14 @@
  My name is Juan Nunes. I currently live in Rio De Janeiro, Brazil. I am <strong>Front-end Developer</strong> <br>
   Building beautiful tech products to solve problems.
 </h3>
-
+<br>
 <h3>
-  Tech Stack: <strong>HTML5, CSS3, JavaScript and Bootstrap.</strong>
+I am currently delving into Javascript
+</h3>
+
+<br>
+<h3>
+  Tech Stack: <strong>HTML5, CSS3, Javascript and Bootstrap.</strong>
 </h3>
 
 <br>
