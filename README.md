@@ -17,7 +17,7 @@ i am currently studying ruby
 
 <br>
 
-![Juan Nunes's github stats](https://github-readme-stats.vercel.app/api?username=juannunes&hide=contribs,prs&show_icons=true&theme=radical)
+![Juan Nunes's github stats](https://github-readme-stats.vercel.app/api?username=juannunesz&hide=contribs,prs&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juannunes&layout=compact&theme=radical)](https://github.com/juannunesz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juannunesz&layout=compact&theme=radical)](https://github.com/juannunesz/github-readme-stats)
