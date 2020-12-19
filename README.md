@@ -2,7 +2,7 @@
 # Hello there :wave:
 
 <h3> 
- My name is Juan Nunes. I currently live in Rio De Janeiro, Brazil. I am <strong>Front-end Developer</strong> <br>
+ My name is Juan Nunes. I currently live in Rio De Janeiro, Brazil. I am <strong>Development Studant</strong> <br>
   Building beautiful tech products to solve problems.
 </h3>
 <br>
