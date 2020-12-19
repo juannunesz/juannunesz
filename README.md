@@ -12,7 +12,7 @@ I am currently delving into Javascript
 
 <br>
 <h3>
-  Tech Stack: <strong>HTML5, CSS3, Javascript and Bootstrap.</strong>
+  Tech Stack: <strong>HTML5, CSS3, Javascript and Bootstrap and learning Ruby.</strong>
 </h3>
 
 <br>
