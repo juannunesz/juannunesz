@@ -7,7 +7,7 @@
 </h3>
 <br>
 <h3>
-I am currently delving into Javascript
+i am currently studying ruby
 </h3>
 
 <br>
