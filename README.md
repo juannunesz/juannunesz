@@ -3,16 +3,15 @@
 
 <h3> 
  My name is Juan Nunes. I currently live in Rio De Janeiro, Brazil. I am <strong>Development Studant</strong> <br>
-  Building beautiful tech products to solve problems.
 </h3>
 <br>
 <h3>
-i am currently studying ruby
+i am currently studying C# and its ecosystem
 </h3>
 
 <br>
 <h3>
-  Tech Stack: <strong>HTML5, CSS3, Javascript, Bootstrap and learning Ruby.</strong>
+ <strong> Tech Stack: C# / .NET, Javascript and web technologies (HTML, CSS) <strong>
 </h3>
 
 <br>
