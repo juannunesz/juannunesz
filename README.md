@@ -4,6 +4,7 @@
 <h3> 
  My name is Juan Nunes. I currently live in Rio De Janeiro, Brazil.
  <br>
+ <br>
  <strong>Software Engineer Studant</strong>
 </h3>
 <br>
