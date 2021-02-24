@@ -9,12 +9,12 @@
 </h3>
 <br>
 <h3>
-i am currently studying C# and its ecosystem
+i am currently studying Nodejs and React 
 </h3>
 
 <br>
 <h3>
- <strong> Tech Stack: C# / .NET, Javascript and web technologies (HTML, CSS) <strong>
+ <strong> Tech Stack: React, Nodejs, Typescript, C#/.NET and web technologies (HTML, CSS) <strong>
 </h3>
 
 <br>
