@@ -9,7 +9,7 @@
 </h3>
 <br>
 <h3>
-i am currently studying ReactJS 
+ i am currently studying ReactJS 
 </h3>
 
 <br>
