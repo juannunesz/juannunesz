@@ -9,7 +9,7 @@
 </h3>
 <br>
 <h3>
- i am currently studying PHP
+ i am currently studying Laravel
 </h3>
 
 <br>
