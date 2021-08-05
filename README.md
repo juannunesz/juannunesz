@@ -8,12 +8,12 @@
 </h3>
 <br>
 <h3>
- i am currently studying Laravel
+ i am currently studying Node, GraphQL and Microservices
 </h3>
 
 <br>
 <h3>
- <strong> Tech Stack: PHP, Mysql, Javascript, HTML, CSS, SAAS, Bootstrap <strong>
+ <strong> Tech Stack: Node, PHP, Mysql, Javascript, HTML, CSS, Bootstrap <strong>
 </h3>
 
 <br>
