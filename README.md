@@ -8,7 +8,7 @@
 </h3>
 <br>
 <h3>
- i am currently studying Node, GraphQL and Microservices
+ i am currently studying Node.js, Knex and MongoDB
 </h3>
 
 <br>
