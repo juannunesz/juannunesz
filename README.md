@@ -1,4 +1,4 @@
-## Olá, eu sou o Juan 👋
+## Hi, i am Juan 👋
 
 <div>
   <a href="https://www.linkedin.com/in/juan-nunes-884842179/">
