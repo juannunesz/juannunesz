@@ -15,16 +15,26 @@ I have been devoting about 12 hours a day to studying. I have a great passion fo
 
 <br />
 
-**Tecnologias que eu trabalho:**
+**Technologies I'm good at:**
 <br />
 
 <div> 
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=nodejs&logoColor=white" /> 
    <!--img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /-->
    <!--img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /-->
    <!--img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /-->
+</div>
+
+<br/>
+
+**I'm studying:**
+<br/> 
+<div> 
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
 </div>
 
 <br />
