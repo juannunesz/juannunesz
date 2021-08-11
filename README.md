@@ -31,10 +31,10 @@ I have been devoting about 12 hours a day to studying. I have a great passion fo
 **I'm studying:**
 <br/> 
 <div> 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb"/>
 </div>
 
 <br />
