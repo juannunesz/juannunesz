@@ -23,6 +23,7 @@ I have been devoting about 12 hours a day to studying. I have a great passion fo
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="typescript">
   <img src="https://cdn.svgporn.com/logos/vue.svg" width="30" heigth="30" alt="vue"/>
   <img src="https://cdn.svgporn.com/logos/laravel.svg" width="30" heigth="30" alt="laravel"/>
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30" heigth="30px" alt="nodejs"/>
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git">
   <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="linux"> 
