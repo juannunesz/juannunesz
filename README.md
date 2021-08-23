@@ -35,8 +35,7 @@ I have been devoting about 12 hours a day to studying. I have a great passion fo
 **I'm studying:**
 <br/> 
 <div> 
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 </div>
 
 <br />
