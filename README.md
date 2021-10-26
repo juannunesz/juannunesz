@@ -20,10 +20,9 @@ I have been devoting about 12 hours a day to studying. I have a great passion fo
 
 <div> 
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="typescript">
-  <img src="https://cdn.svgporn.com/logos/vue.svg" width="30" heigth="30" alt="vue"/>
   <img src="https://cdn.svgporn.com/logos/laravel.svg" width="30" heigth="30" alt="laravel"/>
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30" heigth="30px" alt="nodejs"/>
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="30" heigth="30" alt="python"/>
+  <img src="https://cdn.svgporn.com/logos/django.svg" width="30" heigth="30" alt="django"/>
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git">
   <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="linux"> 
@@ -31,12 +30,6 @@ I have been devoting about 12 hours a day to studying. I have a great passion fo
 </div>
 
 <br/>
-
-**I'm studying:**
-<br/> 
-<div> 
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-</div>
 
 <br />
 <table align="center">
