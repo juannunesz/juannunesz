@@ -10,7 +10,7 @@
 
 <div>
 I'm a developer focused on Web development and Problem Solving, I'm 20 years old and I live in Brazil. Currently a Software Engineering student.
-I have been devoting about 12 hours a day to studying. I have a great passion for helping people who are just starting out and my biggest hobby is contributing to open source projects. Codes, movies, video games, music, podcasts, books and studies are subjects that interest me.
+I have been devoting about some hours a day to studying. I have a great passion for helping people who are just starting out and my biggest hobby is contributing to open source projects. Codes, movies, video games, music, podcasts, books and studies are subjects that interest me.
 </div>
 
 <br />
@@ -20,7 +20,6 @@ I have been devoting about 12 hours a day to studying. I have a great passion fo
 
 <div> 
   <img src="https://cdn.svgporn.com/logos/python.svg" width="30" heigth="30" alt="python"/>
-  <img src="https://cdn.svgporn.com/logos/django.svg" width="40" heigth="40" alt="django"/>
   <img src="https://cdn.svgporn.com/logos/laravel.svg" width="30" heigth="30" alt="laravel"/>
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git">
