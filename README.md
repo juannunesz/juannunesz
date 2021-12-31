@@ -19,6 +19,7 @@ I have been devoting about some hours a day to studying. I have a great passion 
 <br />
 
 <div> 
+  <img src="https://cdn.svgporn.com/logos/go-icon.svg" height="30" alt="go">
   <img src="https://cdn.svgporn.com/logos/python.svg" width="30" heigth="30" alt="python"/>
   <img src="https://cdn.svgporn.com/logos/laravel.svg" width="30" heigth="30" alt="laravel"/>
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="30" height="30"/>
