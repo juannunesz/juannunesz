@@ -9,7 +9,7 @@
 <br /> 
 
 <div>
-I'm a developer focused on Cloud engnieer and Problem Solving, I'm 22 years old and I live in Dublin.
+I'm a developer focused on Cloud Engineer and Problem Solving, I'm 22 years old and I live in Dublin.
 I have been devoting about some hours a day to studying. I have a great passion for helping people who are just starting out and my biggest hobby is contributing to open source projects. Codes, movies, video games, music, podcasts, books and studies are subjects that interest me.
 </div>
 
