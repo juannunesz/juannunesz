@@ -9,8 +9,7 @@
 <br /> 
 
 <div>
-I'm a developer focused on Cloud Engineer and Problem Solving, I'm 22 years old and I live in Dublin.
-I have been devoting about some hours a day to studying. I have a great passion for helping people who are just starting out and my biggest hobby is contributing to open source projects. Codes, movies, video games, music, podcasts, books and studies are subjects that interest me.
+I am a Cloud Engineer and problem-solving enthusiast with a strong passion for technology. At 23 years old, currently  based in Dublin, I dedicate several hours daily to expanding my knowledge and honing my skills. I am deeply committed to helping individuals who are just starting their journey in tech, and one of my greatest passions is contributing to open-source projects. My interests span across coding, movies, video games, music, podcasts, books, and continuous learning.
 </div>
 
 <br />
